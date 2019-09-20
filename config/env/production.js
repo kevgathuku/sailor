@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://https://sailor-dev.herokuapp.com',
+      'https://sailor-dev.herokuapp.com',
     ],
 
 
